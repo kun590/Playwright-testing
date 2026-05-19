@@ -1,4 +1,4 @@
 # Playwright-testing
 for auto testing on web
-run test
+run auto test!
 
